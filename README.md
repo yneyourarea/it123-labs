@@ -1,3 +1,3 @@
 # Our Group Members
 
-![Group Members](./group_members.png)
+![Group Members](./group_memberss.png)
